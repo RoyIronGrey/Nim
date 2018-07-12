@@ -1,0 +1,2045 @@
+-- Merging decision tree log ---
+meta-data#com.amap.api.v2.apikey
+INJECTED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:78:9-80:43
+	android:value
+		INJECTED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:80:13-40
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:79:13-50
+manifest
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:2:1-541:12
+INJECTED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:2:1-541:12
+INJECTED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:2:1-541:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\212292c7b2a28ba565caadf90e89dfc9\AndroidManifest.xml:2:1-19:12
+MERGED from [:rtskit] F:\OpenSourceAPP\nim_demo\rtskit\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-32:12
+MERGED from [com.google.firebase:firebase-core:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.0.aar\dec785f823cf87656383c5ed69cdea28\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\7f0211cab3edbea9016db5e66b20855e\AndroidManifest.xml:17:1-22:12
+MERGED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-164:12
+MERGED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-96:12
+MERGED from [:avchatkit] F:\OpenSourceAPP\nim_demo\avchatkit\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-44:12
+MERGED from [com.google.firebase:firebase-messaging:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.6.0.aar\f77b331a08decf89b9d1ff169b4c7021\AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\9ec1693f75e6920962546739af9055f9\AndroidManifest.xml:16:1-21:12
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.3.aar\d6d60c1dca19b68d7ff8ec9f3bd3235e\AndroidManifest.xml:2:1-34:12
+MERGED from [com.huawei.android.hms:push:2.6.0.301] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\push-2.6.0.301.aar\ca1b83df18c63b4fbc0227da6ce35891\AndroidManifest.xml:2:1-9:12
+MERGED from [com.netease.nimlib:jsbridge:1.3.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\jsbridge-1.3.1.aar\76fdc83bcc5ddfdcbe2f54f38d390588\AndroidManifest.xml:2:1-17:12
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\083eb8b67055aa8df1ddfd0974598147\AndroidManifest.xml:17:1-30:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.5.0.aar\3965dbc4c252a482a49f5ea73ce16a07\AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\d750afb1507d0a46151039da33cda37a\AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\3badd8d17acffd8f227ae434c79a8fc2\AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\fabric-1.4.1.aar\62c91400cd77504867003e111cfec2ad\AndroidManifest.xml:22:1-33:12
+MERGED from [:faceunity] F:\OpenSourceAPP\nim_demo\faceunity\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1c9c4a81a475f72050dc9f788b614b5d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\575e102b9d2eecffa1d464952a180a99\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\c13e6247c1b9c7d9de5a1161df86c945\AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:16:1-47:12
+MERGED from [com.google.firebase:firebase-common:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\abdaf145db84bd13cb47225cefa41d8c\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\aad99b6b10b37432975d7cf06bd779d4\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\c794c255ff9850a315a33ae107485c4b\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\adaebaa425e770364b5d6a4628b560a9\AndroidManifest.xml:17:1-28:12
+MERGED from [org.adw.library:discrete-seekbar:1.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\discrete-seekbar-1.0.1.aar\e1332e0cb28e98582084a0358fe9f052\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\624a4151b579db6eb5cb79c47fcd2d0b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6dd337e8c9d92fe04c790ed252a00651\AndroidManifest.xml:2:1-11:12
+MERGED from [me.everything:overscroll-decor-android:1.0.4] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\overscroll-decor-android-1.0.4.aar\ce3cf1b1a19f1e2e8927ad8e47755a4e\AndroidManifest.xml:2:1-12:12
+MERGED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:2:1-52:12
+MERGED from [jp.wasabeef:glide-transformations:3.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\glide-transformations-3.0.1.aar\87d583d6ec16e26d6c2a614c65ad093f\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\6075fd5756b5cb4a7ef2179bb2b9d063\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.6.0.aar\682fdae43983494b9cb7d8b0195f78c3\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\7f2872ed390844bf62b490ee2b5355bc\AndroidManifest.xml:2:1-6:12
+MERGED from [com.huawei.android.hms:base:2.6.0.301] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\base-2.6.0.301.aar\4b0c68f062826a3c55b94b2daae75959\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\35b3c9e54f55c7a455d965938a5fe82a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\ef7085bb0e9233f02bc4100717e44391\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b493f5b18781af4ba0ad49af4310eff5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c87adef11f0e37de4c68ff7061047c29\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\74d5ececa94537bd9d3ec9c814456cc3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\295228678d56c50aa476a1853032192b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\6707bff412092c538e9d629b2593c5f9\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\98e78b53c5f4f184c2d47d0f386ff2fa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\livedata-1.1.0.aar\8c9fbb3bb9a0e252566e011831468726\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1b6a3b360c8e8744063a3c5398d75431\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d01d24da32a9d2e81e1d2124bd9112bd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9ed1320501eb8f805d0dcd5af4bc6944\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.0.aar\0a6ab23755c9a37dc7bddbe25ef3d48d\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.0.aar\c40b47215d062db8d253aa9bff4abedf\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\49ca162754ce73c450e3a08b1d44fee3\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.6.0.aar\17e1b36d56e0cb3f56cbc0dd53d00d83\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\0651ac823a67e697148417312052e384\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.6.0.aar\eb9c29b4ff6bd2851956643e3c28941d\AndroidManifest.xml:2:1-6:12
+INJECTED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:2:1-541:12
+INJECTED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:2:1-541:12
+	package
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:4:11-41
+	android:versionName
+		INJECTED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:2:1-541:12
+		INJECTED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:3:11-57
+	android:versionCode
+		INJECTED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:2:1-541:12
+		INJECTED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:5:11-41
+uses-permission#android.permission.INTERNET
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\212292c7b2a28ba565caadf90e89dfc9\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\212292c7b2a28ba565caadf90e89dfc9\AndroidManifest.xml:9:5-67
+MERGED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-67
+MERGED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-67
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.3.aar\d6d60c1dca19b68d7ff8ec9f3bd3235e\AndroidManifest.xml:11:5-67
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.3.aar\d6d60c1dca19b68d7ff8ec9f3bd3235e\AndroidManifest.xml:11:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.5.0.aar\3965dbc4c252a482a49f5ea73ce16a07\AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.5.0.aar\3965dbc4c252a482a49f5ea73ce16a07\AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\d750afb1507d0a46151039da33cda37a\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\d750afb1507d0a46151039da33cda37a\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\3badd8d17acffd8f227ae434c79a8fc2\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\3badd8d17acffd8f227ae434c79a8fc2\AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\fabric-1.4.1.aar\62c91400cd77504867003e111cfec2ad\AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\fabric-1.4.1.aar\62c91400cd77504867003e111cfec2ad\AndroidManifest.xml:29:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\c13e6247c1b9c7d9de5a1161df86c945\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\c13e6247c1b9c7d9de5a1161df86c945\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:10:5-79
+MERGED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-79
+MERGED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-79
+MERGED from [:avchatkit] F:\OpenSourceAPP\nim_demo\avchatkit\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-79
+MERGED from [:avchatkit] F:\OpenSourceAPP\nim_demo\avchatkit\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-79
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.3.aar\d6d60c1dca19b68d7ff8ec9f3bd3235e\AndroidManifest.xml:13:5-79
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.3.aar\d6d60c1dca19b68d7ff8ec9f3bd3235e\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\c13e6247c1b9c7d9de5a1161df86c945\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\c13e6247c1b9c7d9de5a1161df86c945\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:11:5-76
+MERGED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-76
+MERGED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-76
+MERGED from [:avchatkit] F:\OpenSourceAPP\nim_demo\avchatkit\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-76
+MERGED from [:avchatkit] F:\OpenSourceAPP\nim_demo\avchatkit\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-76
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.3.aar\d6d60c1dca19b68d7ff8ec9f3bd3235e\AndroidManifest.xml:16:5-76
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.3.aar\d6d60c1dca19b68d7ff8ec9f3bd3235e\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:15:5-80
+MERGED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:18:5-80
+MERGED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:18:5-80
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.3.aar\d6d60c1dca19b68d7ff8ec9f3bd3235e\AndroidManifest.xml:14:5-80
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.3.aar\d6d60c1dca19b68d7ff8ec9f3bd3235e\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:15:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:16:5-81
+MERGED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-81
+MERGED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-81
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.3.aar\d6d60c1dca19b68d7ff8ec9f3bd3235e\AndroidManifest.xml:15:5-81
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.3.aar\d6d60c1dca19b68d7ff8ec9f3bd3235e\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:20:5-81
+MERGED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-81
+MERGED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:21:5-89
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:21:22-86
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:24:5-75
+MERGED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:5-75
+MERGED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:5-75
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.3.aar\d6d60c1dca19b68d7ff8ec9f3bd3235e\AndroidManifest.xml:12:5-75
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.3.aar\d6d60c1dca19b68d7ff8ec9f3bd3235e\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:24:22-72
+uses-permission#android.permission.CAMERA
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:25:5-65
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:25:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:26:5-71
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:26:22-68
+uses-permission#android.permission.BLUETOOTH
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:27:5-68
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:27:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:28:5-74
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:28:22-71
+uses-permission#android.permission.GET_TASKS
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:31:5-68
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:31:22-65
+uses-permission#android.permission.FLASHLIGHT
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:32:5-69
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:32:22-66
+uses-permission#android.permission.VIBRATE
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:33:5-66
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:33:22-63
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:34:5-79
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:34:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:35:5-80
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:35:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:36:5-73
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:36:22-70
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:38:5-75
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:38:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:39:5-68
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\c13e6247c1b9c7d9de5a1161df86c945\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\c13e6247c1b9c7d9de5a1161df86c945\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:39:22-65
+permission#com.netease.nim.demo.permission.RECEIVE_MSG
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:43:5-45:47
+	android:protectionLevel
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:45:9-44
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:44:9-67
+uses-permission#com.netease.nim.demo.permission.RECEIVE_MSG
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:48:5-83
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:48:22-80
+permission#com.netease.nim.demo.permission.MIPUSH_RECEIVE
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:51:5-53:47
+	android:protectionLevel
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:53:9-44
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:52:9-70
+uses-permission#com.netease.nim.demo.permission.MIPUSH_RECEIVE
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:54:5-86
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:54:22-83
+uses-sdk
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:56:5-97
+INJECTED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:56:5-97
+INJECTED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:56:5-97
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\212292c7b2a28ba565caadf90e89dfc9\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\212292c7b2a28ba565caadf90e89dfc9\AndroidManifest.xml:7:5-43
+MERGED from [:rtskit] F:\OpenSourceAPP\nim_demo\rtskit\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:rtskit] F:\OpenSourceAPP\nim_demo\rtskit\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-core:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.0.aar\dec785f823cf87656383c5ed69cdea28\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.0.aar\dec785f823cf87656383c5ed69cdea28\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\7f0211cab3edbea9016db5e66b20855e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\7f0211cab3edbea9016db5e66b20855e\AndroidManifest.xml:20:5-43
+MERGED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:avchatkit] F:\OpenSourceAPP\nim_demo\avchatkit\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:avchatkit] F:\OpenSourceAPP\nim_demo\avchatkit\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-messaging:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.6.0.aar\f77b331a08decf89b9d1ff169b4c7021\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.6.0.aar\f77b331a08decf89b9d1ff169b4c7021\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\9ec1693f75e6920962546739af9055f9\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\9ec1693f75e6920962546739af9055f9\AndroidManifest.xml:17:5-43
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.3.aar\d6d60c1dca19b68d7ff8ec9f3bd3235e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.3.aar\d6d60c1dca19b68d7ff8ec9f3bd3235e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.android.hms:push:2.6.0.301] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\push-2.6.0.301.aar\ca1b83df18c63b4fbc0227da6ce35891\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.android.hms:push:2.6.0.301] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\push-2.6.0.301.aar\ca1b83df18c63b4fbc0227da6ce35891\AndroidManifest.xml:5:5-7:41
+MERGED from [com.netease.nimlib:jsbridge:1.3.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\jsbridge-1.3.1.aar\76fdc83bcc5ddfdcbe2f54f38d390588\AndroidManifest.xml:7:5-9:41
+MERGED from [com.netease.nimlib:jsbridge:1.3.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\jsbridge-1.3.1.aar\76fdc83bcc5ddfdcbe2f54f38d390588\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\083eb8b67055aa8df1ddfd0974598147\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\083eb8b67055aa8df1ddfd0974598147\AndroidManifest.xml:20:5-44
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.5.0.aar\3965dbc4c252a482a49f5ea73ce16a07\AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.5.0.aar\3965dbc4c252a482a49f5ea73ce16a07\AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\d750afb1507d0a46151039da33cda37a\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\d750afb1507d0a46151039da33cda37a\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\3badd8d17acffd8f227ae434c79a8fc2\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\3badd8d17acffd8f227ae434c79a8fc2\AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\fabric-1.4.1.aar\62c91400cd77504867003e111cfec2ad\AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\fabric-1.4.1.aar\62c91400cd77504867003e111cfec2ad\AndroidManifest.xml:27:5-43
+MERGED from [:faceunity] F:\OpenSourceAPP\nim_demo\faceunity\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:faceunity] F:\OpenSourceAPP\nim_demo\faceunity\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1c9c4a81a475f72050dc9f788b614b5d\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1c9c4a81a475f72050dc9f788b614b5d\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\575e102b9d2eecffa1d464952a180a99\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\575e102b9d2eecffa1d464952a180a99\AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\c13e6247c1b9c7d9de5a1161df86c945\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\c13e6247c1b9c7d9de5a1161df86c945\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\abdaf145db84bd13cb47225cefa41d8c\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\abdaf145db84bd13cb47225cefa41d8c\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\aad99b6b10b37432975d7cf06bd779d4\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\aad99b6b10b37432975d7cf06bd779d4\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\c794c255ff9850a315a33ae107485c4b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\c794c255ff9850a315a33ae107485c4b\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:transition:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\adaebaa425e770364b5d6a4628b560a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\adaebaa425e770364b5d6a4628b560a9\AndroidManifest.xml:20:5-44
+MERGED from [org.adw.library:discrete-seekbar:1.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\discrete-seekbar-1.0.1.aar\e1332e0cb28e98582084a0358fe9f052\AndroidManifest.xml:23:5-25:41
+MERGED from [org.adw.library:discrete-seekbar:1.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\discrete-seekbar-1.0.1.aar\e1332e0cb28e98582084a0358fe9f052\AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\624a4151b579db6eb5cb79c47fcd2d0b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\624a4151b579db6eb5cb79c47fcd2d0b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6dd337e8c9d92fe04c790ed252a00651\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6dd337e8c9d92fe04c790ed252a00651\AndroidManifest.xml:5:5-7:41
+MERGED from [me.everything:overscroll-decor-android:1.0.4] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\overscroll-decor-android-1.0.4.aar\ce3cf1b1a19f1e2e8927ad8e47755a4e\AndroidManifest.xml:8:5-10:41
+MERGED from [me.everything:overscroll-decor-android:1.0.4] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\overscroll-decor-android-1.0.4.aar\ce3cf1b1a19f1e2e8927ad8e47755a4e\AndroidManifest.xml:8:5-10:41
+MERGED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:7:5-9:41
+MERGED from [jp.wasabeef:glide-transformations:3.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\glide-transformations-3.0.1.aar\87d583d6ec16e26d6c2a614c65ad093f\AndroidManifest.xml:8:5-10:41
+MERGED from [jp.wasabeef:glide-transformations:3.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\glide-transformations-3.0.1.aar\87d583d6ec16e26d6c2a614c65ad093f\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\6075fd5756b5cb4a7ef2179bb2b9d063\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\6075fd5756b5cb4a7ef2179bb2b9d063\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.6.0.aar\682fdae43983494b9cb7d8b0195f78c3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.6.0.aar\682fdae43983494b9cb7d8b0195f78c3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\7f2872ed390844bf62b490ee2b5355bc\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\7f2872ed390844bf62b490ee2b5355bc\AndroidManifest.xml:4:5-43
+MERGED from [com.huawei.android.hms:base:2.6.0.301] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\base-2.6.0.301.aar\4b0c68f062826a3c55b94b2daae75959\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.android.hms:base:2.6.0.301] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\base-2.6.0.301.aar\4b0c68f062826a3c55b94b2daae75959\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\35b3c9e54f55c7a455d965938a5fe82a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\35b3c9e54f55c7a455d965938a5fe82a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\ef7085bb0e9233f02bc4100717e44391\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\ef7085bb0e9233f02bc4100717e44391\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b493f5b18781af4ba0ad49af4310eff5\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b493f5b18781af4ba0ad49af4310eff5\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c87adef11f0e37de4c68ff7061047c29\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c87adef11f0e37de4c68ff7061047c29\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\74d5ececa94537bd9d3ec9c814456cc3\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\74d5ececa94537bd9d3ec9c814456cc3\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\295228678d56c50aa476a1853032192b\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\295228678d56c50aa476a1853032192b\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\6707bff412092c538e9d629b2593c5f9\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\6707bff412092c538e9d629b2593c5f9\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\98e78b53c5f4f184c2d47d0f386ff2fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\98e78b53c5f4f184c2d47d0f386ff2fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\livedata-1.1.0.aar\8c9fbb3bb9a0e252566e011831468726\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\livedata-1.1.0.aar\8c9fbb3bb9a0e252566e011831468726\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1b6a3b360c8e8744063a3c5398d75431\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1b6a3b360c8e8744063a3c5398d75431\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d01d24da32a9d2e81e1d2124bd9112bd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d01d24da32a9d2e81e1d2124bd9112bd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9ed1320501eb8f805d0dcd5af4bc6944\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9ed1320501eb8f805d0dcd5af4bc6944\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.0.aar\0a6ab23755c9a37dc7bddbe25ef3d48d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.0.aar\0a6ab23755c9a37dc7bddbe25ef3d48d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.0.aar\c40b47215d062db8d253aa9bff4abedf\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.0.aar\c40b47215d062db8d253aa9bff4abedf\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\49ca162754ce73c450e3a08b1d44fee3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\49ca162754ce73c450e3a08b1d44fee3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.6.0.aar\17e1b36d56e0cb3f56cbc0dd53d00d83\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.6.0.aar\17e1b36d56e0cb3f56cbc0dd53d00d83\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\0651ac823a67e697148417312052e384\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\0651ac823a67e697148417312052e384\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.6.0.aar\eb9c29b4ff6bd2851956643e3c28941d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.6.0.aar\eb9c29b4ff6bd2851956643e3c28941d\AndroidManifest.xml:4:5-43
+INJECTED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:56:5-97
+INJECTED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:56:5-97
+	tools:overrideLibrary
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:56:15-94
+	android:targetSdkVersion
+		INJECTED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:56:5-97
+		INJECTED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:56:5-97
+		INJECTED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml
+uses-permission#com.meizu.flyme.push.permission.RECEIVE
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:60:5-79
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:60:22-76
+permission#com.netease.nim.demo.push.permission.MESSAGE
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:61:5-62:54
+	android:protectionLevel
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:62:17-52
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:61:17-76
+uses-permission#com.netease.nim.demo.push.permission.MESSAGE
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:63:5-84
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:63:22-81
+uses-permission#com.meizu.c2dm.permission.RECEIVE
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:65:5-73
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:65:22-70
+permission#com.netease.nim.demo.permission.C2D_MESSAGE
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:66:5-67:55
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:25:5-109
+	android:protectionLevel
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:67:17-52
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:66:17-75
+uses-permission#com.netease.nim.demo.permission.C2D_MESSAGE
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:68:5-82
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:68:22-80
+application
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:70:5-539:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\212292c7b2a28ba565caadf90e89dfc9\AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\212292c7b2a28ba565caadf90e89dfc9\AndroidManifest.xml:11:5-17:19
+MERGED from [:rtskit] F:\OpenSourceAPP\nim_demo\rtskit\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-30:19
+MERGED from [:rtskit] F:\OpenSourceAPP\nim_demo\rtskit\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-30:19
+MERGED from [com.google.firebase:firebase-core:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.0.aar\dec785f823cf87656383c5ed69cdea28\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.0.aar\dec785f823cf87656383c5ed69cdea28\AndroidManifest.xml:5:5-20
+MERGED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-162:19
+MERGED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-162:19
+MERGED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:5-94:19
+MERGED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:5-94:19
+MERGED from [:avchatkit] F:\OpenSourceAPP\nim_demo\avchatkit\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-42:19
+MERGED from [:avchatkit] F:\OpenSourceAPP\nim_demo\avchatkit\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-42:19
+MERGED from [com.google.firebase:firebase-messaging:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.6.0.aar\f77b331a08decf89b9d1ff169b4c7021\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.6.0.aar\f77b331a08decf89b9d1ff169b4c7021\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\9ec1693f75e6920962546739af9055f9\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\9ec1693f75e6920962546739af9055f9\AndroidManifest.xml:18:5-20:19
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.3.aar\d6d60c1dca19b68d7ff8ec9f3bd3235e\AndroidManifest.xml:18:5-32:19
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.3.aar\d6d60c1dca19b68d7ff8ec9f3bd3235e\AndroidManifest.xml:18:5-32:19
+MERGED from [com.netease.nimlib:jsbridge:1.3.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\jsbridge-1.3.1.aar\76fdc83bcc5ddfdcbe2f54f38d390588\AndroidManifest.xml:11:5-15:19
+MERGED from [com.netease.nimlib:jsbridge:1.3.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\jsbridge-1.3.1.aar\76fdc83bcc5ddfdcbe2f54f38d390588\AndroidManifest.xml:11:5-15:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\083eb8b67055aa8df1ddfd0974598147\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\083eb8b67055aa8df1ddfd0974598147\AndroidManifest.xml:22:5-28:19
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.5.0.aar\3965dbc4c252a482a49f5ea73ce16a07\AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.5.0.aar\3965dbc4c252a482a49f5ea73ce16a07\AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\d750afb1507d0a46151039da33cda37a\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\d750afb1507d0a46151039da33cda37a\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\3badd8d17acffd8f227ae434c79a8fc2\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\3badd8d17acffd8f227ae434c79a8fc2\AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\fabric-1.4.1.aar\62c91400cd77504867003e111cfec2ad\AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\fabric-1.4.1.aar\62c91400cd77504867003e111cfec2ad\AndroidManifest.xml:31:5-20
+MERGED from [:faceunity] F:\OpenSourceAPP\nim_demo\faceunity\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-13:19
+MERGED from [:faceunity] F:\OpenSourceAPP\nim_demo\faceunity\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-13:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1c9c4a81a475f72050dc9f788b614b5d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1c9c4a81a475f72050dc9f788b614b5d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\575e102b9d2eecffa1d464952a180a99\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\575e102b9d2eecffa1d464952a180a99\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\c13e6247c1b9c7d9de5a1161df86c945\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\c13e6247c1b9c7d9de5a1161df86c945\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-common:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\abdaf145db84bd13cb47225cefa41d8c\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\abdaf145db84bd13cb47225cefa41d8c\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\aad99b6b10b37432975d7cf06bd779d4\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\aad99b6b10b37432975d7cf06bd779d4\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\c794c255ff9850a315a33ae107485c4b\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\c794c255ff9850a315a33ae107485c4b\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\adaebaa425e770364b5d6a4628b560a9\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\adaebaa425e770364b5d6a4628b560a9\AndroidManifest.xml:22:5-26:19
+MERGED from [org.adw.library:discrete-seekbar:1.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\discrete-seekbar-1.0.1.aar\e1332e0cb28e98582084a0358fe9f052\AndroidManifest.xml:27:5-28:19
+MERGED from [org.adw.library:discrete-seekbar:1.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\discrete-seekbar-1.0.1.aar\e1332e0cb28e98582084a0358fe9f052\AndroidManifest.xml:27:5-28:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\624a4151b579db6eb5cb79c47fcd2d0b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\624a4151b579db6eb5cb79c47fcd2d0b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6dd337e8c9d92fe04c790ed252a00651\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6dd337e8c9d92fe04c790ed252a00651\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\6075fd5756b5cb4a7ef2179bb2b9d063\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\6075fd5756b5cb4a7ef2179bb2b9d063\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.6.0.aar\682fdae43983494b9cb7d8b0195f78c3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.6.0.aar\682fdae43983494b9cb7d8b0195f78c3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\7f2872ed390844bf62b490ee2b5355bc\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\7f2872ed390844bf62b490ee2b5355bc\AndroidManifest.xml:5:5-20
+MERGED from [com.huawei.android.hms:base:2.6.0.301] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\base-2.6.0.301.aar\4b0c68f062826a3c55b94b2daae75959\AndroidManifest.xml:9:5-21:19
+MERGED from [com.huawei.android.hms:base:2.6.0.301] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\base-2.6.0.301.aar\4b0c68f062826a3c55b94b2daae75959\AndroidManifest.xml:9:5-21:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\35b3c9e54f55c7a455d965938a5fe82a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\35b3c9e54f55c7a455d965938a5fe82a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\ef7085bb0e9233f02bc4100717e44391\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\ef7085bb0e9233f02bc4100717e44391\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b493f5b18781af4ba0ad49af4310eff5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b493f5b18781af4ba0ad49af4310eff5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c87adef11f0e37de4c68ff7061047c29\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c87adef11f0e37de4c68ff7061047c29\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\74d5ececa94537bd9d3ec9c814456cc3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\74d5ececa94537bd9d3ec9c814456cc3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\295228678d56c50aa476a1853032192b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\295228678d56c50aa476a1853032192b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\6707bff412092c538e9d629b2593c5f9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\6707bff412092c538e9d629b2593c5f9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.0.aar\0a6ab23755c9a37dc7bddbe25ef3d48d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.0.aar\0a6ab23755c9a37dc7bddbe25ef3d48d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.0.aar\c40b47215d062db8d253aa9bff4abedf\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.0.aar\c40b47215d062db8d253aa9bff4abedf\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\49ca162754ce73c450e3a08b1d44fee3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\49ca162754ce73c450e3a08b1d44fee3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.6.0.aar\17e1b36d56e0cb3f56cbc0dd53d00d83\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.6.0.aar\17e1b36d56e0cb3f56cbc0dd53d00d83\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\0651ac823a67e697148417312052e384\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\0651ac823a67e697148417312052e384\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.6.0.aar\eb9c29b4ff6bd2851956643e3c28941d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.6.0.aar\eb9c29b4ff6bd2851956643e3c28941d\AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from [com.netease.nimlib:jsbridge:1.3.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\jsbridge-1.3.1.aar\76fdc83bcc5ddfdcbe2f54f38d390588\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:74:9-41
+	android:icon
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:73:9-41
+	android:allowBackup
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:72:9-35
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:75:9-52
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:71:9-39
+meta-data#com.netease.nim.appKey
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:82:9-84:55
+	android:value
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:84:4-52
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:83:13-50
+uses-library#com.google.android.maps
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:86:9-88:40
+	android:required
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:88:13-37
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:87:13-51
+meta-data#JRMF_PARTNER_NAME
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:91:9-93:36
+	android:value
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:93:13-33
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:92:13-45
+meta-data#android.max_aspect
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:96:9-98:35
+	android:value
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:98:13-32
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:97:13-46
+activity#com.netease.nim.demo.main.activity.WelcomeActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:101:9-116:20
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:107:13-49
+	android:label
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:105:13-45
+	android:launchMode
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:106:13-43
+	android:hardwareAccelerated
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:104:13-47
+	android:windowSoftInputMode
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:109:13-52
+	android:configChanges
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:103:13-63
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:108:13-65
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:102:13-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.MULTIWINDOW_LAUNCHER
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:110:13-115:29
+action#android.intent.action.MAIN
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:111:17-69
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:111:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:113:17-77
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:113:27-74
+category#android.intent.category.MULTIWINDOW_LAUNCHER
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:114:17-89
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:114:27-86
+activity#com.netease.nim.demo.main.activity.MainActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:119:9-126:55
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:124:13-49
+	android:launchMode
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:123:13-43
+	android:hardwareAccelerated
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:122:13-47
+	android:windowSoftInputMode
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:126:13-52
+	android:configChanges
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:121:13-63
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:125:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:120:13-55
+activity#com.netease.nim.demo.main.activity.MultiportActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:129:9-134:70
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:132:13-49
+	android:windowSoftInputMode
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:134:13-67
+	android:configChanges
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:131:13-63
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:133:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:130:13-60
+activity#com.netease.nim.demo.login.LoginActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:137:9-143:70
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:141:13-49
+	android:label
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:140:13-42
+	android:windowSoftInputMode
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:143:13-67
+	android:configChanges
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:139:13-48
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:142:13-46
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:138:13-48
+activity#com.netease.nim.demo.main.activity.AboutActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:146:9-152:75
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:150:13-49
+	android:label
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:149:13-42
+	android:windowSoftInputMode
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:152:13-72
+	android:configChanges
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:148:13-48
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:151:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:147:13-56
+activity#com.netease.nim.demo.main.activity.SettingsActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:154:9-159:63
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:157:13-49
+	android:windowSoftInputMode
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:159:13-60
+	android:configChanges
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:156:13-48
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:158:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:155:13-59
+activity#com.netease.nim.demo.main.activity.NoDisturbActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:161:9-166:75
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:164:13-49
+	android:windowSoftInputMode
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:166:13-72
+	android:configChanges
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:163:13-48
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:165:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:162:13-60
+activity#com.netease.nim.demo.contact.activity.AddFriendActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:168:9-173:75
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:171:13-49
+	android:windowSoftInputMode
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:173:13-72
+	android:configChanges
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:170:13-48
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:172:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:169:13-63
+activity#com.netease.nim.demo.contact.activity.UserProfileActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:175:9-180:75
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:178:13-49
+	android:windowSoftInputMode
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:180:13-72
+	android:configChanges
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:177:13-48
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:179:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:176:13-65
+activity#com.netease.nim.demo.contact.activity.UserProfileSettingActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:182:9-187:75
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:185:13-49
+	android:windowSoftInputMode
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:187:13-72
+	android:configChanges
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:184:13-48
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:186:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:183:13-72
+activity#com.netease.nim.demo.contact.activity.UserProfileEditItemActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:189:9-194:75
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:192:13-49
+	android:windowSoftInputMode
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:194:13-72
+	android:configChanges
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:191:13-48
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:193:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:190:13-73
+activity#com.netease.nim.demo.contact.activity.BlackListActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:196:9-201:75
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:199:13-49
+	android:windowSoftInputMode
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:201:13-72
+	android:configChanges
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:198:13-48
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:200:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:197:13-63
+activity#com.netease.nim.demo.file.browser.FileBrowserActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:204:9-210:75
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:208:13-49
+	android:label
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:207:13-49
+	android:windowSoftInputMode
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:210:13-72
+	android:configChanges
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:206:13-48
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:209:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:205:13-61
+activity#com.netease.nim.demo.main.activity.SystemMessageActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:212:9-217:70
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:215:13-49
+	android:windowSoftInputMode
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:217:13-67
+	android:configChanges
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:214:13-63
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:216:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:213:13-64
+activity#com.netease.nim.demo.main.activity.CustomNotificationActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:218:9-223:70
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:221:13-49
+	android:windowSoftInputMode
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:223:13-67
+	android:configChanges
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:220:13-63
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:222:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:219:13-69
+activity#com.netease.nim.demo.session.activity.MessageHistoryActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:224:9-229:70
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:227:13-49
+	android:windowSoftInputMode
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:229:13-67
+	android:configChanges
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:226:13-63
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:228:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:225:13-68
+activity#com.netease.nim.demo.session.activity.MessageInfoActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:230:9-235:70
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:233:13-49
+	android:windowSoftInputMode
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:235:13-67
+	android:configChanges
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:232:13-63
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:234:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:231:13-65
+activity#com.netease.nim.demo.team.activity.AdvancedTeamSearchActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:237:9-242:70
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:240:13-49
+	android:windowSoftInputMode
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:242:13-67
+	android:configChanges
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:239:13-63
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:241:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:238:13-69
+activity#com.netease.nim.demo.team.activity.AdvancedTeamJoinActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:244:9-249:70
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:247:13-49
+	android:windowSoftInputMode
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:249:13-67
+	android:configChanges
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:246:13-63
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:248:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:245:13-67
+activity#com.netease.nim.demo.main.activity.TeamListActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:251:9-256:67
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:254:13-49
+	android:windowSoftInputMode
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:256:13-64
+	android:configChanges
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:253:13-63
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:255:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:252:13-59
+activity#com.netease.nim.demo.main.activity.GlobalSearchActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:259:9-264:62
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:262:13-49
+	android:windowSoftInputMode
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:264:13-59
+	android:configChanges
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:261:13-63
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:263:13-52
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:260:13-63
+activity#com.netease.nim.demo.main.activity.GlobalSearchDetailActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:266:9-270:59
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:269:13-49
+	android:configChanges
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:268:13-63
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:270:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:267:13-69
+activity#com.netease.nim.demo.main.activity.GlobalSearchDetailActivity2
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:272:9-276:59
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:275:13-49
+	android:configChanges
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:274:13-63
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:276:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:273:13-70
+activity#com.netease.nim.demo.session.activity.WatchSnapChatPictureActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:279:9-282:59
+	android:configChanges
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:281:13-51
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:282:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:280:13-74
+activity#com.netease.nim.demo.session.activity.FileDownloadActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:285:9-288:59
+	android:configChanges
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:287:13-51
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:288:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:286:13-66
+activity#com.netease.nim.demo.location.activity.LocationAmapActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:291:9-296:59
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:295:13-49
+	android:label
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:294:13-49
+	android:configChanges
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:293:13-63
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:296:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:292:13-67
+activity#com.netease.nim.demo.location.activity.NavigationAmapActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:297:9-302:59
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:301:13-49
+	android:label
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:300:13-54
+	android:configChanges
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:299:13-63
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:302:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:298:13-69
+activity#com.netease.nim.demo.session.search.SearchMessageActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:305:9-310:72
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:308:13-49
+	android:windowSoftInputMode
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:310:13-69
+	android:configChanges
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:307:13-63
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:309:13-52
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:306:13-65
+activity#com.netease.nim.demo.session.search.DisplayMessageActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:312:9-317:70
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:315:13-49
+	android:windowSoftInputMode
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:317:13-67
+	android:configChanges
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:314:13-63
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:316:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:313:13-66
+activity#com.netease.nim.demo.chatroom.activity.ChatRoomActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:320:9-324:70
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:322:13-49
+	android:windowSoftInputMode
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:324:13-67
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:323:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:321:13-63
+activity#com.netease.nim.demo.jsbridge.JsBridgeActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:326:9-331:75
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:329:13-49
+	android:label
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:328:13-46
+	android:windowSoftInputMode
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:331:13-72
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:330:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:327:13-54
+activity#com.netease.nim.demo.main.activity.RobotListActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:334:9-337:59
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:336:13-49
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:337:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:335:13-60
+activity#com.netease.nim.demo.session.activity.SendAckMsgActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:340:9-342:65
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:341:19-55
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:342:19-62
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:340:19-70
+activity#com.netease.nim.demo.session.activity.AckMsgInfoActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:345:9-347:65
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:346:19-55
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:347:19-62
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:345:19-70
+activity#com.netease.nim.demo.contact.activity.RobotProfileActivity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:349:9-352:59
+	android:screenOrientation
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:351:13-49
+	android:theme
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:352:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:350:13-66
+service#com.netease.nimlib.service.NimService
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:355:9-357:39
+	android:process
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:357:13-36
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:356:13-65
+service#com.netease.nimlib.service.NimService$Aux
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:360:9-362:39
+	android:process
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:362:13-36
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:361:13-69
+service#com.netease.nimlib.job.NIMJobService
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:365:9-369:39
+	android:process
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:369:13-36
+	android:exported
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:367:13-36
+	android:permission
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:368:13-69
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:366:13-64
+receiver#com.netease.nimlib.service.NimReceiver
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:372:9-380:20
+	android:process
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:375:13-36
+	android:exported
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:374:13-37
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:373:13-66
+intent-filter#android.intent.action.BOOT_COMPLETED+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:376:13-379:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:377:17-79
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:377:25-76
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:378:17-79
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:378:25-76
+receiver#com.netease.nimlib.service.ResponseReceiver
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:383:9-80
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:383:19-77
+service#com.netease.nimlib.service.ResponseService
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:386:9-78
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:386:18-75
+provider#com.netease.nimlib.ipc.NIMContentProvider
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:390:9-394:39
+	android:process
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:394:13-36
+	android:authorities
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:392:13-68
+	android:exported
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:393:13-37
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:391:13-69
+receiver#com.netease.nim.demo.receiver.CustomNotificationReceiver
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:398:9-405:20
+	android:enabled
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:400:13-35
+	android:exported
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:401:13-37
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:399:13-64
+intent-filter#com.netease.nim.demo.ACTION.RECEIVE_CUSTOM_NOTIFICATION
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:402:13-404:29
+action#com.netease.nim.demo.ACTION.RECEIVE_CUSTOM_NOTIFICATION
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:403:17-98
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:403:25-95
+service#com.xiaomi.push.service.XMJobService
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:408:9-413:42
+	android:process
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:413:13-39
+	android:enabled
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:410:13-35
+	android:exported
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:411:13-37
+	android:permission
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:412:13-69
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:409:13-64
+service#com.xiaomi.push.service.XMPushService
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:415:9-418:42
+	android:process
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:418:13-39
+	android:enabled
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:417:13-35
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:416:13-65
+receiver#com.xiaomi.push.service.receivers.PingReceiver
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:420:9-427:20
+	android:process
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:423:13-39
+	android:exported
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:422:13-37
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:421:13-74
+intent-filter#com.xiaomi.push.PING_TIMER
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:424:13-426:29
+action#com.xiaomi.push.PING_TIMER
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:425:17-69
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:425:25-66
+receiver#com.xiaomi.push.service.receivers.NetworkStatusReceiver
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:429:9-436:20
+	android:exported
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:431:13-36
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:430:13-83
+intent-filter#android.intent.category.DEFAULT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:432:13-435:29
+category#android.intent.category.DEFAULT
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:434:17-76
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:434:27-73
+service#com.xiaomi.mipush.sdk.PushMessageHandler
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:438:9-441:39
+	android:enabled
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:440:13-35
+	android:exported
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:441:13-36
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:439:13-68
+service#com.xiaomi.mipush.sdk.MessageHandleService
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:443:9-445:38
+	android:enabled
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:445:13-35
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:444:13-70
+service#com.netease.nim.demo.utils.ConsistentService
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:447:9-454:19
+	android:enabled
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:449:13-35
+	android:exported
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:450:13-36
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:448:13-52
+intent-filter#android.intent.action.RecordService
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:451:13-453:29
+	android:priority
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:451:28-51
+action#android.intent.action.RecordService
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:452:17-77
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:452:25-75
+receiver#com.netease.nimlib.mixpush.mi.MiPushReceiver
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:456:9-464:20
+	android:exported
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:458:13-36
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:457:13-72
+intent-filter#com.xiaomi.mipush.ERROR+com.xiaomi.mipush.MESSAGE_ARRIVED+com.xiaomi.mipush.RECEIVE_MESSAGE
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:459:13-463:29
+	android:priority
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:459:28-57
+action#com.xiaomi.mipush.RECEIVE_MESSAGE
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:460:17-76
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:460:25-73
+action#com.xiaomi.mipush.MESSAGE_ARRIVED
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:461:17-76
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:461:25-73
+action#com.xiaomi.mipush.ERROR
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:462:17-66
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:462:25-63
+meta-data#com.huawei.hms.client.appid
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:468:9-470:41
+	android:value
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:470:13-38
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:469:13-55
+provider#com.huawei.hms.update.provider.UpdateProvider
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:472:9-476:50
+	android:grantUriPermissions
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:476:13-47
+	android:authorities
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:474:13-75
+	android:exported
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:475:13-37
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:473:13-73
+receiver#com.netease.nimlib.mixpush.hw.HWPushReceiver
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:479:9-493:20
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:479:19-78
+intent-filter#com.huawei.android.push.intent.CLICK+com.huawei.android.push.intent.RECEIVE+com.huawei.android.push.intent.REGISTRATION+com.huawei.intent.action.PUSH_STATE
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:480:13-489:29
+	android:priority
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:480:28-57
+action#com.huawei.android.push.intent.REGISTRATION
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:482:17-86
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:482:25-83
+action#com.huawei.android.push.intent.RECEIVE
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:484:17-81
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:484:25-78
+action#com.huawei.android.push.intent.CLICK
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:486:17-79
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:486:25-76
+action#com.huawei.intent.action.PUSH_STATE
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:488:17-78
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:488:25-75
+meta-data#CS_cloud_ablitity
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:490:13-492:56
+	android:value
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:492:17-53
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:491:17-49
+receiver#com.huawei.hms.support.api.push.PushEventReceiver
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:495:9-500:20
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:495:19-83
+intent-filter#com.huawei.intent.action.PUSH
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:496:13-499:29
+action#com.huawei.intent.action.PUSH
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:498:17-72
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:498:25-69
+service#com.amap.api.location.APSService
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:503:9-68
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:503:18-65
+service#com.netease.nimlib.mixpush.fcm.FCMTokenService
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:506:9-510:19
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:506:18-79
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:507:13-509:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:508:17-80
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:508:25-77
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:513:9-515:63
+	android:resource
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:515:13-60
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:514:13-83
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:516:9-518:59
+	android:resource
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:518:13-56
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:517:13-84
+receiver#com.netease.nimlib.mixpush.mz.MZPushReceiver
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:521:9-534:20
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:521:19-78
+intent-filter#com.meizu.c2dm.intent.RECEIVE+com.meizu.c2dm.intent.REGISTRATION+com.meizu.flyme.push.intent.MESSAGE+com.meizu.flyme.push.intent.REGISTER.FEEDBACK+com.meizu.flyme.push.intent.UNREGISTER.FEEDBACK+com.netease.nim.demo
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:522:13-533:29
+	android:priority
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:522:28-57
+action#com.meizu.flyme.push.intent.MESSAGE
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:524:17-78
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:524:25-75
+action#com.meizu.flyme.push.intent.REGISTER.FEEDBACK
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:526:17-88
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:526:25-85
+action#com.meizu.flyme.push.intent.UNREGISTER.FEEDBACK
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:528:17-90
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:528:25-87
+action#com.meizu.c2dm.intent.REGISTRATION
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:530:17-77
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:530:25-74
+action#com.meizu.c2dm.intent.RECEIVE
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:531:17-72
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:531:25-69
+category#com.netease.nim.demo
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:532:17-65
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:532:27-62
+meta-data#io.fabric.ApiKey
+ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:536:9-538:72
+	android:value
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:538:13-69
+	android:name
+		ADDED from F:\OpenSourceAPP\nim_demo\demo\AndroidManifest.xml:537:13-44
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\212292c7b2a28ba565caadf90e89dfc9\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\212292c7b2a28ba565caadf90e89dfc9\AndroidManifest.xml:14:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\212292c7b2a28ba565caadf90e89dfc9\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\212292c7b2a28ba565caadf90e89dfc9\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\212292c7b2a28ba565caadf90e89dfc9\AndroidManifest.xml:13:13-75
+activity#com.netease.nim.rtskit.activity.RTSActivity
+ADDED from [:rtskit] F:\OpenSourceAPP\nim_demo\rtskit\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:9-19:63
+	android:screenOrientation
+		ADDED from [:rtskit] F:\OpenSourceAPP\nim_demo\rtskit\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:13-49
+	android:launchMode
+		ADDED from [:rtskit] F:\OpenSourceAPP\nim_demo\rtskit\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:13-48
+	android:windowSoftInputMode
+		ADDED from [:rtskit] F:\OpenSourceAPP\nim_demo\rtskit\build\intermediates\manifests\full\debug\AndroidManifest.xml:19:13-60
+	android:theme
+		ADDED from [:rtskit] F:\OpenSourceAPP\nim_demo\rtskit\build\intermediates\manifests\full\debug\AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from [:rtskit] F:\OpenSourceAPP\nim_demo\rtskit\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:13-71
+receiver#com.netease.nimlib.receiver.RTSBroadcastReceiver
+ADDED from [:rtskit] F:\OpenSourceAPP\nim_demo\rtskit\build\intermediates\manifests\full\debug\AndroidManifest.xml:22:9-29:20
+	android:enabled
+		ADDED from [:rtskit] F:\OpenSourceAPP\nim_demo\rtskit\build\intermediates\manifests\full\debug\AndroidManifest.xml:24:13-35
+	android:exported
+		ADDED from [:rtskit] F:\OpenSourceAPP\nim_demo\rtskit\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [:rtskit] F:\OpenSourceAPP\nim_demo\rtskit\build\intermediates\manifests\full\debug\AndroidManifest.xml:23:13-76
+intent-filter#com.netease.nim.demo.ACTION.RECEIVE_RTS_NOTIFICATION
+ADDED from [:rtskit] F:\OpenSourceAPP\nim_demo\rtskit\build\intermediates\manifests\full\debug\AndroidManifest.xml:26:13-28:29
+action#com.netease.nim.demo.ACTION.RECEIVE_RTS_NOTIFICATION
+ADDED from [:rtskit] F:\OpenSourceAPP\nim_demo\rtskit\build\intermediates\manifests\full\debug\AndroidManifest.xml:27:17-95
+	android:name
+		ADDED from [:rtskit] F:\OpenSourceAPP\nim_demo\rtskit\build\intermediates\manifests\full\debug\AndroidManifest.xml:27:25-92
+meta-data#com.netease.nim.uikit.support.glide.NIMGlideModule
+ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:9-14:43
+	android:value
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:13-40
+	android:name
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:13-78
+activity#com.netease.nim.uikit.business.session.activity.P2PMessageActivity
+ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:9-26:70
+	android:screenOrientation
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:24:13-49
+	android:windowSoftInputMode
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:26:13-67
+	android:configChanges
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:23:13-63
+	android:theme
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:22:13-94
+activity#com.netease.nim.uikit.business.session.activity.TeamMessageActivity
+ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:27:9-32:70
+	android:screenOrientation
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:30:13-49
+	android:windowSoftInputMode
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:32:13-67
+	android:configChanges
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:29:13-63
+	android:theme
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:28:13-95
+activity#com.netease.nim.uikit.business.team.activity.NormalTeamInfoActivity
+ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:35:9-40:70
+	android:screenOrientation
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:38:13-49
+	android:windowSoftInputMode
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:40:13-67
+	android:configChanges
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:37:13-63
+	android:theme
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:39:13-56
+	android:name
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:36:13-95
+activity#com.netease.nim.uikit.business.team.activity.AdvancedTeamInfoActivity
+ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:41:9-46:70
+	android:screenOrientation
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:44:13-49
+	android:windowSoftInputMode
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:46:13-67
+	android:configChanges
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:43:13-63
+	android:theme
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:45:13-56
+	android:name
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:42:13-97
+activity#com.netease.nim.uikit.business.team.activity.AdvancedTeamMemberActivity
+ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:47:9-52:70
+	android:screenOrientation
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:50:13-49
+	android:windowSoftInputMode
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:52:13-67
+	android:configChanges
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:49:13-63
+	android:theme
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:51:13-56
+	android:name
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:48:13-99
+activity#com.netease.nim.uikit.business.team.activity.AdvancedTeamAnnounceActivity
+ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:53:9-58:70
+	android:screenOrientation
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:56:13-49
+	android:windowSoftInputMode
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:58:13-67
+	android:configChanges
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:55:13-63
+	android:theme
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:57:13-56
+	android:name
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:54:13-101
+activity#com.netease.nim.uikit.business.team.activity.AdvancedTeamMemberInfoActivity
+ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:59:9-64:70
+	android:screenOrientation
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:62:13-49
+	android:windowSoftInputMode
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:64:13-67
+	android:configChanges
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:61:13-63
+	android:theme
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:63:13-56
+	android:name
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:60:13-103
+activity#com.netease.nim.uikit.business.team.activity.AdvancedTeamNicknameActivity
+ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:65:9-70:70
+	android:screenOrientation
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:68:13-49
+	android:windowSoftInputMode
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:70:13-67
+	android:configChanges
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:67:13-63
+	android:theme
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:69:13-56
+	android:name
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:66:13-101
+activity#com.netease.nim.uikit.business.team.activity.AdvancedTeamCreateAnnounceActivity
+ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:71:9-76:70
+	android:screenOrientation
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:74:13-49
+	android:windowSoftInputMode
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:76:13-67
+	android:configChanges
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:73:13-63
+	android:theme
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:75:13-56
+	android:name
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:72:13-107
+activity#com.netease.nim.uikit.business.team.activity.TeamPropertySettingActivity
+ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:77:9-82:70
+	android:screenOrientation
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:80:13-49
+	android:windowSoftInputMode
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:82:13-67
+	android:configChanges
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:79:13-63
+	android:theme
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:81:13-56
+	android:name
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:78:13-100
+activity#com.netease.nim.uikit.business.contact.selector.activity.ContactSelectActivity
+ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:85:9-91:67
+	android:screenOrientation
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:89:13-49
+	android:label
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:88:13-53
+	android:windowSoftInputMode
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:91:13-64
+	android:configChanges
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:87:13-63
+	android:theme
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:90:13-56
+	android:name
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:86:13-106
+activity#com.netease.nim.uikit.business.ait.selector.AitContactSelectorActivity
+ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:94:9-97:59
+	android:screenOrientation
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:96:13-49
+	android:theme
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:97:13-56
+	android:name
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:95:13-98
+activity#com.netease.nim.uikit.common.media.picker.activity.PickImageActivity
+ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:100:9-103:59
+	android:screenOrientation
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:102:13-49
+	android:theme
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:103:13-56
+	android:name
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:101:13-96
+activity#com.netease.nim.uikit.common.media.picker.activity.CropImageActivity
+ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:104:9-107:59
+	android:screenOrientation
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:106:13-49
+	android:theme
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:107:13-56
+	android:name
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:105:13-96
+activity#com.netease.nim.uikit.common.media.picker.activity.PickerAlbumActivity
+ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:108:9-111:59
+	android:screenOrientation
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:110:13-49
+	android:theme
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:111:13-56
+	android:name
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:109:13-98
+activity#com.netease.nim.uikit.common.media.picker.activity.PickerAlbumPreviewActivity
+ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:112:9-115:59
+	android:screenOrientation
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:114:13-49
+	android:theme
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:115:13-56
+	android:name
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:113:13-105
+activity#com.netease.nim.uikit.common.media.picker.activity.PreviewImageFromLocalActivity
+ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:116:9-121:70
+	android:screenOrientation
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:119:13-49
+	android:windowSoftInputMode
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:121:13-67
+	android:configChanges
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:118:13-63
+	android:theme
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:120:13-56
+	android:name
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:117:13-108
+activity#com.netease.nim.uikit.common.media.picker.activity.PreviewImageFromCameraActivity
+ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:122:9-128:70
+	android:screenOrientation
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:126:13-49
+	android:label
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:125:13-53
+	android:windowSoftInputMode
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:128:13-67
+	android:configChanges
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:124:13-63
+	android:theme
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:127:13-56
+	android:name
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:123:13-109
+activity#com.netease.nim.uikit.business.session.activity.CaptureVideoActivity
+ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:131:9-136:70
+	android:screenOrientation
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:134:13-49
+	android:windowSoftInputMode
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:136:13-67
+	android:configChanges
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:133:13-63
+	android:theme
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:135:13-56
+	android:name
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:132:13-96
+activity#com.netease.nim.uikit.business.session.activity.WatchVideoActivity
+ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:137:9-141:48
+	android:label
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:140:13-47
+	android:configChanges
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:139:13-74
+	android:theme
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:141:13-45
+	android:name
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:138:13-94
+activity#com.netease.nim.uikit.business.session.activity.WatchMessagePictureActivity
+ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:144:9-147:48
+	android:configChanges
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:146:13-51
+	android:theme
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:147:13-45
+	android:name
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:145:13-103
+activity#com.netease.nim.uikit.business.session.activity.WatchPicAndVideoMenuActivity
+ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:148:9-151:48
+	android:configChanges
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:150:13-51
+	android:theme
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:151:13-45
+	android:name
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:149:13-104
+provider#com.netease.nim.uikit.common.media.picker.model.GenericFileProvider
+ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:153:9-161:20
+	android:grantUriPermissions
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:157:13-47
+	android:authorities
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:155:13-73
+	android:exported
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:156:13-37
+	android:name
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:154:13-95
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:158:13-160:58
+	android:resource
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:160:17-55
+	android:name
+		ADDED from [:uikit] F:\OpenSourceAPP\nim_demo\uikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:159:17-67
+activity#com.jrmf360.normallib.rp.ui.OpenRpActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:23:9-26:57
+	android:launchMode
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:13-44
+	android:theme
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:26:13-54
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:24:13-70
+activity#com.jrmf360.normallib.rp.ui.PayTypeActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:27:9-30:52
+	android:launchMode
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:29:13-44
+	android:theme
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:28:13-71
+activity#com.jrmf360.normallib.rp.ui.TransPayActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:31:9-35:58
+	android:launchMode
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:33:13-44
+	android:windowSoftInputMode
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:35:13-55
+	android:theme
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:34:13-49
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:32:13-72
+activity#com.jrmf360.normallib.rp.ui.SendGroupEnvelopesActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:36:9-91
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:36:19-88
+activity#com.jrmf360.normallib.rp.ui.SendSingleEnvelopesActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:37:9-92
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:37:19-89
+activity#com.jrmf360.normallib.rp.ui.RpDetailActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:38:9-81
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:38:19-78
+activity#com.jrmf360.normallib.rp.ui.MyRpActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:39:9-77
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:39:19-74
+activity#com.jrmf360.normallib.rp.ui.ResetPwdActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:40:9-81
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:40:19-78
+activity#com.jrmf360.normallib.rp.ui.CertificationActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:41:9-86
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:41:19-83
+activity#com.jrmf360.normallib.rp.ui.CheckAuthActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:42:9-82
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:42:19-79
+activity#com.jrmf360.normallib.rp.ui.CheckUserInfoActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:43:9-86
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:43:19-83
+activity#com.jrmf360.normallib.rp.ui.EnBrowserActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:44:9-82
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:44:19-79
+activity#com.jrmf360.normallib.rp.ui.SettingPswdActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:45:9-84
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:45:19-81
+activity#com.jrmf360.normallib.rp.ui.TradeDetailActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:46:9-84
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:46:19-81
+activity#com.jrmf360.normallib.rp.ui.TradeHistoryActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:47:9-85
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:47:19-82
+activity#com.jrmf360.normallib.rp.ui.TransAccountActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:48:9-85
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:48:19-82
+activity#com.jrmf360.normallib.rp.ui.BankCardListActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:49:9-85
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:49:19-82
+activity#com.jrmf360.normallib.rp.ui.AddCardActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:50:9-80
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:50:19-77
+activity#com.jrmf360.normallib.rp.ui.AddCardFirsstActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:51:9-86
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:51:19-83
+activity#com.jrmf360.normallib.rp.ui.AddCardSecondActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:52:9-86
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:52:19-83
+activity#com.jrmf360.normallib.rp.ui.TransDetailActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:53:9-84
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:53:19-81
+activity#com.jrmf360.normallib.rp.ui.TransSuccActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:54:9-82
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:54:19-79
+activity#com.jrmf360.normallib.rp.ui.WebViewActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:55:9-80
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:55:19-77
+activity#com.jrmf360.normallib.wallet.ui.MyWalletActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:58:9-85
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:58:19-82
+activity#com.jrmf360.normallib.wallet.ui.AccountInfoActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:59:9-88
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:59:19-85
+activity#com.jrmf360.normallib.wallet.ui.TradeHistoryActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:60:9-89
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:60:19-86
+activity#com.jrmf360.normallib.wallet.ui.SecureSettingActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:61:9-90
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:61:19-87
+activity#com.jrmf360.normallib.wallet.ui.SupportBankCardActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:62:9-92
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:62:19-89
+activity#com.jrmf360.normallib.wallet.ui.BankSettingActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:63:9-88
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:63:19-85
+activity#com.jrmf360.normallib.wallet.ui.AddCardSecondActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:64:9-90
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:64:19-87
+activity#com.jrmf360.normallib.wallet.ui.AddCardFirstActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:65:9-89
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:65:19-86
+activity#com.jrmf360.normallib.wallet.ui.GetDepositActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:66:9-87
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:66:19-84
+activity#com.jrmf360.normallib.wallet.ui.IdentityAuthenActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:67:9-91
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:67:19-88
+activity#com.jrmf360.normallib.wallet.ui.MyRpActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:68:9-81
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:68:19-78
+activity#com.jrmf360.normallib.wallet.ui.RechargeActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:69:9-85
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:69:19-82
+activity#com.jrmf360.normallib.wallet.ui.TradeDetailActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:70:9-88
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:70:19-85
+activity#com.jrmf360.normallib.wallet.ui.WebViewActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:71:9-84
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:71:19-81
+activity#com.jrmf360.normallib.wallet.ui.RpDetailActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:72:9-85
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:72:19-82
+activity#com.jrmf360.normallib.wallet.ui.GetPwdActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:73:9-83
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:73:19-80
+activity#com.jrmf360.normallib.wallet.ui.PwdCheckActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:74:9-85
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:74:19-82
+activity#com.jrmf360.normallib.wallet.ui.UpdatePwdActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:75:9-86
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:75:19-83
+activity#com.jrmf360.normallib.wallet.ui.SetPayPwdActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:76:9-86
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:76:19-83
+activity#com.alipay.sdk.app.H5PayActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:79:9-84:70
+	android:screenOrientation
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:83:13-47
+	android:windowSoftInputMode
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:84:13-67
+	android:exported
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:82:13-37
+	android:configChanges
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:81:13-85
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:80:13-60
+activity#com.alipay.sdk.app.H5AuthActivity
+ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:85:9-90:70
+	android:screenOrientation
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:89:13-47
+	android:windowSoftInputMode
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:90:13-67
+	android:exported
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:88:13-37
+	android:configChanges
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:87:13-74
+	android:name
+		ADDED from [:jrmfRpWalletlib] F:\OpenSourceAPP\nim_demo\jrmfRpWalletlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:86:13-61
+activity#com.netease.nim.avchatkit.activity.AVChatActivity
+ADDED from [:avchatkit] F:\OpenSourceAPP\nim_demo\avchatkit\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:9-20:63
+	android:screenOrientation
+		ADDED from [:avchatkit] F:\OpenSourceAPP\nim_demo\avchatkit\build\intermediates\manifests\full\debug\AndroidManifest.xml:18:13-49
+	android:launchMode
+		ADDED from [:avchatkit] F:\OpenSourceAPP\nim_demo\avchatkit\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:13-48
+	android:windowSoftInputMode
+		ADDED from [:avchatkit] F:\OpenSourceAPP\nim_demo\avchatkit\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:13-60
+	android:theme
+		ADDED from [:avchatkit] F:\OpenSourceAPP\nim_demo\avchatkit\build\intermediates\manifests\full\debug\AndroidManifest.xml:19:13-51
+	android:name
+		ADDED from [:avchatkit] F:\OpenSourceAPP\nim_demo\avchatkit\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:13-77
+activity#com.netease.nim.avchatkit.teamavchat.activity.TeamAVChatActivity
+ADDED from [:avchatkit] F:\OpenSourceAPP\nim_demo\avchatkit\build\intermediates\manifests\full\debug\AndroidManifest.xml:23:9-28:63
+	android:screenOrientation
+		ADDED from [:avchatkit] F:\OpenSourceAPP\nim_demo\avchatkit\build\intermediates\manifests\full\debug\AndroidManifest.xml:26:13-49
+	android:launchMode
+		ADDED from [:avchatkit] F:\OpenSourceAPP\nim_demo\avchatkit\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:13-48
+	android:windowSoftInputMode
+		ADDED from [:avchatkit] F:\OpenSourceAPP\nim_demo\avchatkit\build\intermediates\manifests\full\debug\AndroidManifest.xml:28:13-60
+	android:theme
+		ADDED from [:avchatkit] F:\OpenSourceAPP\nim_demo\avchatkit\build\intermediates\manifests\full\debug\AndroidManifest.xml:27:13-51
+	android:name
+		ADDED from [:avchatkit] F:\OpenSourceAPP\nim_demo\avchatkit\build\intermediates\manifests\full\debug\AndroidManifest.xml:24:13-92
+activity#com.netease.nim.avchatkit.activity.AVChatSettingsActivity
+ADDED from [:avchatkit] F:\OpenSourceAPP\nim_demo\avchatkit\build\intermediates\manifests\full\debug\AndroidManifest.xml:31:9-33:52
+	android:screenOrientation
+		ADDED from [:avchatkit] F:\OpenSourceAPP\nim_demo\avchatkit\build\intermediates\manifests\full\debug\AndroidManifest.xml:33:13-49
+	android:name
+		ADDED from [:avchatkit] F:\OpenSourceAPP\nim_demo\avchatkit\build\intermediates\manifests\full\debug\AndroidManifest.xml:32:13-85
+receiver#com.netease.nim.avchatkit.receiver.IncomingCallReceiver
+ADDED from [:avchatkit] F:\OpenSourceAPP\nim_demo\avchatkit\build\intermediates\manifests\full\debug\AndroidManifest.xml:37:9-41:20
+	android:name
+		ADDED from [:avchatkit] F:\OpenSourceAPP\nim_demo\avchatkit\build\intermediates\manifests\full\debug\AndroidManifest.xml:37:19-89
+intent-filter#android.intent.action.PHONE_STATE
+ADDED from [:avchatkit] F:\OpenSourceAPP\nim_demo\avchatkit\build\intermediates\manifests\full\debug\AndroidManifest.xml:38:13-40:29
+action#android.intent.action.PHONE_STATE
+ADDED from [:avchatkit] F:\OpenSourceAPP\nim_demo\avchatkit\build\intermediates\manifests\full\debug\AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from [:avchatkit] F:\OpenSourceAPP\nim_demo\avchatkit\build\intermediates\manifests\full\debug\AndroidManifest.xml:39:25-73
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.6.0.aar\f77b331a08decf89b9d1ff169b4c7021\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.6.0.aar\f77b331a08decf89b9d1ff169b4c7021\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.6.0.aar\f77b331a08decf89b9d1ff169b4c7021\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.6.0.aar\f77b331a08decf89b9d1ff169b4c7021\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.6.0.aar\f77b331a08decf89b9d1ff169b4c7021\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.6.0.aar\f77b331a08decf89b9d1ff169b4c7021\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.6.0.aar\f77b331a08decf89b9d1ff169b4c7021\AndroidManifest.xml:25:25-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\9ec1693f75e6920962546739af9055f9\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\9ec1693f75e6920962546739af9055f9\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\9ec1693f75e6920962546739af9055f9\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\9ec1693f75e6920962546739af9055f9\AndroidManifest.xml:19:19-85
+service#com.meizu.cloud.pushsdk.NotificationService
+ADDED from [com.meizu.flyme.internet:push-internal:3.6.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.3.aar\d6d60c1dca19b68d7ff8ec9f3bd3235e\AndroidManifest.xml:19:9-21:39
+	android:exported
+		ADDED from [com.meizu.flyme.internet:push-internal:3.6.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.3.aar\d6d60c1dca19b68d7ff8ec9f3bd3235e\AndroidManifest.xml:21:13-36
+	android:name
+		ADDED from [com.meizu.flyme.internet:push-internal:3.6.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.3.aar\d6d60c1dca19b68d7ff8ec9f3bd3235e\AndroidManifest.xml:20:13-71
+receiver#com.meizu.cloud.pushsdk.SystemReceiver
+ADDED from [com.meizu.flyme.internet:push-internal:3.6.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.3.aar\d6d60c1dca19b68d7ff8ec9f3bd3235e\AndroidManifest.xml:23:9-31:20
+	android:exported
+		ADDED from [com.meizu.flyme.internet:push-internal:3.6.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.3.aar\d6d60c1dca19b68d7ff8ec9f3bd3235e\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.meizu.flyme.internet:push-internal:3.6.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.3.aar\d6d60c1dca19b68d7ff8ec9f3bd3235e\AndroidManifest.xml:24:13-66
+intent-filter#android.intent.category.DEFAULT+com.meizu.cloud.pushservice.action.PUSH_SERVICE_START
+ADDED from [com.meizu.flyme.internet:push-internal:3.6.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.3.aar\d6d60c1dca19b68d7ff8ec9f3bd3235e\AndroidManifest.xml:26:13-30:29
+action#com.meizu.cloud.pushservice.action.PUSH_SERVICE_START
+ADDED from [com.meizu.flyme.internet:push-internal:3.6.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.3.aar\d6d60c1dca19b68d7ff8ec9f3bd3235e\AndroidManifest.xml:27:17-96
+	android:name
+		ADDED from [com.meizu.flyme.internet:push-internal:3.6.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.3.aar\d6d60c1dca19b68d7ff8ec9f3bd3235e\AndroidManifest.xml:27:25-93
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\083eb8b67055aa8df1ddfd0974598147\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\083eb8b67055aa8df1ddfd0974598147\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\083eb8b67055aa8df1ddfd0974598147\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\083eb8b67055aa8df1ddfd0974598147\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\083eb8b67055aa8df1ddfd0974598147\AndroidManifest.xml:24:13-83
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1c9c4a81a475f72050dc9f788b614b5d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\575e102b9d2eecffa1d464952a180a99\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\575e102b9d2eecffa1d464952a180a99\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\adaebaa425e770364b5d6a4628b560a9\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\adaebaa425e770364b5d6a4628b560a9\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\624a4151b579db6eb5cb79c47fcd2d0b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\624a4151b579db6eb5cb79c47fcd2d0b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\6075fd5756b5cb4a7ef2179bb2b9d063\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\6075fd5756b5cb4a7ef2179bb2b9d063\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\35b3c9e54f55c7a455d965938a5fe82a\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\35b3c9e54f55c7a455d965938a5fe82a\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\ef7085bb0e9233f02bc4100717e44391\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\ef7085bb0e9233f02bc4100717e44391\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b493f5b18781af4ba0ad49af4310eff5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b493f5b18781af4ba0ad49af4310eff5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c87adef11f0e37de4c68ff7061047c29\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c87adef11f0e37de4c68ff7061047c29\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\74d5ececa94537bd9d3ec9c814456cc3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\74d5ececa94537bd9d3ec9c814456cc3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\295228678d56c50aa476a1853032192b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\295228678d56c50aa476a1853032192b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\6707bff412092c538e9d629b2593c5f9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\6707bff412092c538e9d629b2593c5f9\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1c9c4a81a475f72050dc9f788b614b5d\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1c9c4a81a475f72050dc9f788b614b5d\AndroidManifest.xml:27:13-51
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\c13e6247c1b9c7d9de5a1161df86c945\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\c13e6247c1b9c7d9de5a1161df86c945\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\c13e6247c1b9c7d9de5a1161df86c945\AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\c13e6247c1b9c7d9de5a1161df86c945\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\825d8f5b8845338afb11be6b90dad757\AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:25:5-109
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:27:5-78
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:31:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:31:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:31:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:31:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:32:13-35:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.netease.nim.demo
+ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:32:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:33:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:33:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:34:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:40:9-44:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:40:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\847530e8655d8c2ca572db0d145071bf\AndroidManifest.xml:40:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\abdaf145db84bd13cb47225cefa41d8c\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\abdaf145db84bd13cb47225cefa41d8c\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\abdaf145db84bd13cb47225cefa41d8c\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\abdaf145db84bd13cb47225cefa41d8c\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\abdaf145db84bd13cb47225cefa41d8c\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\c794c255ff9850a315a33ae107485c4b\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\c794c255ff9850a315a33ae107485c4b\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\c794c255ff9850a315a33ae107485c4b\AndroidManifest.xml:20:20-65
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\8891897495e0a7a8776b5ea726a8ce54\AndroidManifest.xml:50:22-86
+activity#com.huawei.hms.activity.BridgeActivity
+ADDED from [com.huawei.android.hms:base:2.6.0.301] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\base-2.6.0.301.aar\4b0c68f062826a3c55b94b2daae75959\AndroidManifest.xml:10:9-20:20
+	android:excludeFromRecents
+		ADDED from [com.huawei.android.hms:base:2.6.0.301] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\base-2.6.0.301.aar\4b0c68f062826a3c55b94b2daae75959\AndroidManifest.xml:13:13-46
+	android:hardwareAccelerated
+		ADDED from [com.huawei.android.hms:base:2.6.0.301] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\base-2.6.0.301.aar\4b0c68f062826a3c55b94b2daae75959\AndroidManifest.xml:15:13-47
+	android:exported
+		ADDED from [com.huawei.android.hms:base:2.6.0.301] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\base-2.6.0.301.aar\4b0c68f062826a3c55b94b2daae75959\AndroidManifest.xml:14:13-37
+	android:configChanges
+		ADDED from [com.huawei.android.hms:base:2.6.0.301] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\base-2.6.0.301.aar\4b0c68f062826a3c55b94b2daae75959\AndroidManifest.xml:12:13-92
+	android:theme
+		ADDED from [com.huawei.android.hms:base:2.6.0.301] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\base-2.6.0.301.aar\4b0c68f062826a3c55b94b2daae75959\AndroidManifest.xml:16:13-61
+	android:name
+		ADDED from [com.huawei.android.hms:base:2.6.0.301] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\base-2.6.0.301.aar\4b0c68f062826a3c55b94b2daae75959\AndroidManifest.xml:11:13-66
+meta-data#hwc-theme
+ADDED from [com.huawei.android.hms:base:2.6.0.301] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\base-2.6.0.301.aar\4b0c68f062826a3c55b94b2daae75959\AndroidManifest.xml:17:13-19:77
+	android:value
+		ADDED from [com.huawei.android.hms:base:2.6.0.301] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\base-2.6.0.301.aar\4b0c68f062826a3c55b94b2daae75959\AndroidManifest.xml:19:17-74
+	android:name
+		ADDED from [com.huawei.android.hms:base:2.6.0.301] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\base-2.6.0.301.aar\4b0c68f062826a3c55b94b2daae75959\AndroidManifest.xml:18:17-41

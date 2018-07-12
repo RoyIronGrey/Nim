@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\OpenSourceAPP\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\xml\\provider_paths.xml",
+        "source": "F:\\OpenSourceAPP\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "F:\\OpenSourceAPP\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\xml\\nrtc_setting_pref.xml",
+        "source": "F:\\OpenSourceAPP\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\xml\\nrtc_setting_pref.xml"
+    }
+]

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.meizu.flyme.internet:push-internal-3.6.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.3.aar/d6d60c1dca19b68d7ff8ec9f3bd3235e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.3.aar/d6d60c1dca19b68d7ff8ec9f3bd3235e/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
